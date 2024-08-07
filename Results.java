@@ -38,6 +38,7 @@ public class Student {
      System.out.println("Hello");
      return;
 }
+<<<<<<< HEAD
 
     void myTest()
  {
@@ -45,4 +46,6 @@ public class Student {
 
 }
 
+=======
+>>>>>>> parent of b008270 (Update Results.java)
 }
