@@ -46,6 +46,8 @@ public class Student {
 
 }
 
+int countAll() { return 0; }.
+
 =======
 >>>>>>> parent of b008270 (Update Results.java)
 }
